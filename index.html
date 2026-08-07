@@ -1626,12 +1626,36 @@
 
 
    <script>
-   // Handle form submission - redirect to thanks page
+   // Handle form submission - send to DrCash API then redirect
    document.addEventListener('DOMContentLoaded', function() {
+     var urlParams = new URLSearchParams(window.location.search);
+
      document.querySelectorAll('.orderForm').forEach(function(form) {
        form.addEventListener('submit', function(e) {
          e.preventDefault();
-         window.location.href = './thanks';
+
+         var formData = new FormData(form);
+         var btn = form.querySelector('button[type="submit"], button.btn');
+         if (btn) { btn.disabled = true; btn.style.opacity = '0.7'; }
+
+         var payload = {
+           phone: formData.get('phone'),
+           name:  formData.get('name'),
+           sub1: urlParams.get('sub1') || '',
+           sub2: urlParams.get('sub2') || '',
+           sub3: urlParams.get('sub3') || '',
+           sub4: urlParams.get('sub4') || '',
+           sub5: urlParams.get('sub5') || ''
+         };
+
+         fetch('/api/order', {
+           method: 'POST',
+           headers: { 'Content-Type': 'application/json' },
+           body: JSON.stringify(payload)
+         })
+         .finally(function() {
+           window.location.href = './thanks';
+         });
        });
      });
    });
