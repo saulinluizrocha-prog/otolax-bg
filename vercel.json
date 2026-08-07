@@ -1,8 +1,9 @@
 {
-  "buildCommand": null,
-  "outputDirectory": ".",
-  "framework": null,
-  "rewrites": [
-    { "source": "/", "destination": "/index.html" }
+  "version": 2,
+  "builds": [
+    {
+      "src": "**/*",
+      "use": "@vercel/static"
+    }
   ]
 }
