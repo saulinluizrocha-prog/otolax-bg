@@ -1626,26 +1626,81 @@
 
 
    <script>
-   // Handle form submission - send to DrCash API then redirect
-   document.addEventListener('DOMContentLoaded', function() {
-     var urlParams = new URLSearchParams(window.location.search);
+   // ═══════════════════════════════════════════════════
+   //  OTOLAX BG - Optimized Form Handler
+   //  Smart phone normalization + gclid + sub1-sub5
+   // ═══════════════════════════════════════════════════
+   document.addEventListener('DOMContentLoaded', function () {
 
-     document.querySelectorAll('.orderForm').forEach(function(form) {
-       form.addEventListener('submit', function(e) {
+     // 1. Capture UTM / tracking params
+     var urlParams = new URLSearchParams(window.location.search);
+     var tracking = {
+       sub1:  urlParams.get('sub1')  || urlParams.get('utm_source')   || '',
+       sub2:  urlParams.get('sub2')  || urlParams.get('utm_medium')   || '',
+       sub3:  urlParams.get('sub3')  || urlParams.get('utm_campaign') || '',
+       sub4:  urlParams.get('sub4')  || urlParams.get('utm_content')  || '',
+       sub5:  urlParams.get('sub5')  || urlParams.get('utm_term')     || '',
+       gclid: urlParams.get('gclid') || ''
+     };
+     if (tracking.gclid) sessionStorage.setItem('gclid', tracking.gclid);
+     if (!tracking.gclid) tracking.gclid = sessionStorage.getItem('gclid') || '';
+
+     // 2. Phone normalizer - Bulgaria +359
+     function normalizePhone(raw) {
+       var s = raw.replace(/[\s\-\(\)\.]/g, '');
+       if (/^\+359\d{8,9}$/.test(s))  return s;
+       if (/^00359\d{8,9}$/.test(s))  return '+359' + s.slice(5);
+       if (/^359\d{8,9}$/.test(s))    return '+' + s;
+       if (/^0[87]\d{7,8}$/.test(s))  return '+359' + s.slice(1);
+       if (/^[87]\d{7,8}$/.test(s))   return '+359' + s;
+       return '+359' + s.replace(/^0+/, '');
+     }
+
+     function isValidPhone(raw) {
+       return /^\+359[0-9]{8,9}$/.test(normalizePhone(raw));
+     }
+
+     // 3. Real-time phone validation feedback
+     document.querySelectorAll('input[name="phone"]').forEach(function (inp) {
+       inp.setAttribute('inputmode', 'tel');
+       inp.addEventListener('input', function () {
+         if (this.value.length < 4) { this.style.borderColor = ''; return; }
+         this.style.borderColor = isValidPhone(this.value) ? '#16a34a' : '#dc2626';
+       });
+     });
+
+     // 4. Form submit handler
+     document.querySelectorAll('.orderForm').forEach(function (form) {
+       form.addEventListener('submit', function (e) {
          e.preventDefault();
 
-         var formData = new FormData(form);
-         var btn = form.querySelector('button[type="submit"], button.btn');
-         if (btn) { btn.disabled = true; btn.style.opacity = '0.7'; }
+         var nameInp  = form.querySelector('input[name="name"]');
+         var phoneInp = form.querySelector('input[name="phone"]');
+         var btn      = form.querySelector('button');
+         var name     = nameInp  ? nameInp.value.trim()  : '';
+         var phone    = phoneInp ? phoneInp.value.trim() : '';
+
+         // Validate name
+         if (!name || name.length < 2) {
+           if (nameInp) { nameInp.focus(); nameInp.style.borderColor = '#dc2626'; }
+           return;
+         }
+         // Validate phone
+         if (!isValidPhone(phone)) {
+           if (phoneInp) { phoneInp.focus(); phoneInp.style.borderColor = '#dc2626'; }
+           return;
+         }
+
+         if (btn) { btn.disabled = true; btn.style.opacity = '0.75'; }
 
          var payload = {
-           phone: formData.get('phone'),
-           name:  formData.get('name'),
-           sub1: urlParams.get('sub1') || '',
-           sub2: urlParams.get('sub2') || '',
-           sub3: urlParams.get('sub3') || '',
-           sub4: urlParams.get('sub4') || '',
-           sub5: urlParams.get('sub5') || ''
+           phone: normalizePhone(phone),
+           name:  name,
+           sub1:  tracking.sub1,
+           sub2:  tracking.sub2,
+           sub3:  tracking.sub3,
+           sub4:  tracking.sub4,
+           sub5:  tracking.sub5 || tracking.gclid
          };
 
          fetch('/api/order', {
@@ -1653,7 +1708,7 @@
            headers: { 'Content-Type': 'application/json' },
            body: JSON.stringify(payload)
          })
-         .finally(function() {
+         .finally(function () {
            window.location.href = './thanks';
          });
        });
