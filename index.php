@@ -1,0 +1,1695 @@
+<!DOCTYPE html>
+<html lang="bg" dir="ltr" class="  webp webp-alpha webp-animation webp-lossless">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="theme-color" content="#ffffff">
+  <title>Купете Otolax евтино. Цени, отзиви. Поръчайте Otolax сега!</title>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="assets/css/style.min.css">
+  <style>
+    .cookie-popup {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      background-color: rgba(30, 30, 30, 0.7);
+      color: #ffffff;
+      padding: 4px 10px;
+      z-index: 1000;
+      width: 100%;
+      font-family: Arial;
+      text-align: center;
+      box-sizing: border-box !important;
+      padding-right: 30px !important;
+    }
+
+    .cookie-popup * {
+      box-sizing: inherit !important;
+    }
+
+    .cookie-popup-inner {
+      display: inline-block;
+      vertical-align: middle;
+      padding-right: 20px;
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 400;
+      text-transform: none;
+      line-height: 12px;
+      color: #ffffff;
+      text-align: center;
+    }
+
+    .cookie-popup-inner a {
+      color: #fff;
+      text-decoration: underline;
+      padding-left: 5px;
+      text-align: center;
+      cursor: pointer;
+    }
+
+    .dismiss-popup {
+      display: inline-block;
+      vertical-align: middle;
+      width: 72px;
+      border: 1px solid #ffffff;
+      padding: 0;
+      border-radius: 3px;
+      line-height: 20px;
+      text-align: center;
+      cursor: pointer;
+      color: #fff;
+      font-size: 12px;
+      transition: 0.3s all
+    }
+
+    .dismiss-popup:hover {
+      background: rgba(30, 30, 30, 0.5);
+    }
+
+    .close-cookie-popup {
+      position: absolute;
+      right: 2px;
+      top: 0;
+      font-size: 22px;
+      line-height: 30px;
+      display: inline-block;
+      text-align: center;
+      color: #ffffff;
+      cursor: pointer;
+      width: 30px;
+    }
+
+    @media screen and (max-width: 660px) {
+      .cookie-popup {
+        text-align: left;
+        padding-left: 15px;
+      }
+
+      .cookie-popup-inner {
+        text-align: left;
+        width: calc(100% - 100px);
+      }
+    }
+
+    @media screen and (max-width: 540px) {
+      .cookie-popup-inner {
+        font-size: 12px;
+      }
+    }
+  </style>
+  <meta name="referrer" content="unsafe-url">
+  <style>
+    .ever-popup-build {
+      position: fixed;
+      opacity: 0;
+      z-index: -1;
+      top: 0;
+      left: -9999px;
+    }
+  </style>
+  <style>
+    .ever-popup__body.ever-mobile {
+      display: none
+    }
+
+    .ever-popup {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, .7);
+      z-index: 111;
+      display: none;
+      overflow: auto;
+    }
+
+    .ever-popup__body {
+      position: static;
+      float: none;
+      display: block;
+      margin: 0 auto;
+      width: auto
+    }
+
+    .ever-popup.show {
+      display: block;
+      align-items: center;
+    }
+
+    .ever-popup__inner {
+      position: relative;
+      margin: 0 auto;
+      padding-top: 35px
+    }
+
+    .ever-popup__close {
+      width: 35px;
+      height: 30px;
+      position: absolute;
+      cursor: pointer;
+      top: 0;
+      right: 0;
+      z-index: 1;
+      -webkit-transition: .3s;
+      -moz-transition: .3s;
+      -ms-transition: .3s;
+      -o-transition: .3s;
+      transition: .3s;
+    }
+
+    .ever-popup__close:after,
+    .ever-popup__close:before {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 10px;
+      width: 35px;
+      height: 10px;
+      background: #fff;
+      transition: all 1s;
+    }
+
+    .ever-popup__close:after {
+      -webkit-transform: rotate(-45deg);
+      -ms-transform: rotate(-45deg);
+      -o-transform: rotate(-45deg);
+      transform: rotate(-45deg);
+    }
+
+    .ever-popup__close:before {
+      -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      -o-transform: rotate(45deg);
+      transform: rotate(45deg);
+    }
+
+    @media screen and (min-width: 1000px) {
+      .ever-popup__body.ever-desktop {
+        display: none
+      }
+
+      .ever-popup__body.ever-mobile {
+        display: block
+      }
+    }
+  </style>
+  <style>
+    @media screen and (min-width: 1000px) {
+      .phoneBtnContainer {
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        visibility: hidden;
+        background-color: transparent;
+        width: 200px;
+        height: 200px;
+        cursor: pointer;
+        z-index: 99;
+        -webkit-backface-visibility: hidden;
+        -webkit-transform: translateZ(0);
+        -webkit-transition: visibility .5s;
+        -moz-transition: visibility .5s;
+        -o-transition: visibility .5s;
+        transition: visibility .5s
+      }
+
+      .cbh-phone.cbh-show {
+        visibility: visible
+      }
+
+      @-webkit-keyframes fadeInRight {
+        0% {
+          opacity: 0;
+          -webkit-transform: translate3d(100%, 0, 0);
+          transform: translate3d(100%, 0, 0)
+        }
+
+        100% {
+          opacity: 1;
+          -webkit-transform: none;
+          transform: none
+        }
+      }
+
+      @keyframes fadeInRight {
+        0% {
+          opacity: 0;
+          -webkit-transform: translate3d(100%, 0, 0);
+          -ms-transform: translate3d(100%, 0, 0);
+          transform: translate3d(100%, 0, 0)
+        }
+
+        100% {
+          opacity: 1;
+          -webkit-transform: none;
+          -ms-transform: none;
+          transform: none
+        }
+      }
+
+      @-webkit-keyframes fadeInRightBig {
+        0% {
+          opacity: 0;
+          -webkit-transform: translate3d(2000px, 0, 0);
+          transform: translate3d(2000px, 0, 0)
+        }
+
+        100% {
+          opacity: 1;
+          -webkit-transform: none;
+          transform: none
+        }
+      }
+
+      @-webkit-keyframes fadeOutRight {
+        0% {
+          opacity: 1
+        }
+
+        100% {
+          opacity: 0;
+          -webkit-transform: translate3d(100%, 0, 0);
+          transform: translate3d(100%, 0, 0)
+        }
+      }
+
+      @keyframes fadeOutRight {
+        0% {
+          opacity: 1
+        }
+
+        100% {
+          opacity: 0;
+          -webkit-transform: translate3d(100%, 0, 0);
+          -ms-transform: translate3d(100%, 0, 0);
+          transform: translate3d(100%, 0, 0)
+        }
+      }
+
+      .fadeOutRight {
+        -webkit-animation-name: fadeOutRight;
+        animation-name: fadeOutRight
+      }
+
+      .cbh-phone.cbh-static1 {
+        opacity: .6
+      }
+
+      .cbh-phone.cbh-hover1 {
+        opacity: 1
+      }
+
+      .cbh-ph-circle {
+        width: 160px;
+        height: 160px;
+        top: 20px;
+        left: 20px;
+        position: absolute;
+        background-color: transparent;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        border: 2px solid rgba(30, 30, 30, .4);
+        opacity: .1;
+        -webkit-animation: cbh-circle-anim 1.2s infinite ease-in-out;
+        -moz-animation: cbh-circle-anim 1.2s infinite ease-in-out;
+        -ms-animation: cbh-circle-anim 1.2s infinite ease-in-out;
+        -o-animation: cbh-circle-anim 1.2s infinite ease-in-out;
+        animation: cbh-circle-anim 1.2s infinite ease-in-out;
+        -webkit-transition: all .5s;
+        -moz-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s
+      }
+
+      .cbh-phone.cbh-active .cbh-ph-circle1 {
+        -webkit-animation: cbh-circle-anim 1.1s infinite ease-in-out !important;
+        -moz-animation: cbh-circle-anim 1.1s infinite ease-in-out !important;
+        -ms-animation: cbh-circle-anim 1.1s infinite ease-in-out !important;
+        -o-animation: cbh-circle-anim 1.1s infinite ease-in-out !important;
+        animation: cbh-circle-anim 1.1s infinite ease-in-out !important
+      }
+
+      .cbh-phone.cbh-static .cbh-ph-circle {
+        -webkit-animation: cbh-circle-anim 2.2s infinite ease-in-out !important;
+        -moz-animation: cbh-circle-anim 2.2s infinite ease-in-out !important;
+        -ms-animation: cbh-circle-anim 2.2s infinite ease-in-out !important;
+        -o-animation: cbh-circle-anim 2.2s infinite ease-in-out !important;
+        animation: cbh-circle-anim 2.2s infinite ease-in-out !important
+      }
+
+      .cbh-phone.cbh-hover .cbh-ph-circle {
+        border-color: rgba(0, 175, 242, 1);
+        opacity: .5
+      }
+
+      .cbh-phone.cbh-green.cbh-hover .cbh-ph-circle {
+        border-color: rgba(117, 235, 80, 1);
+        opacity: .5
+      }
+
+      .cbh-phone.cbh-green .cbh-ph-circle {
+        border-color: rgba(0, 175, 242, 1);
+        opacity: .5
+      }
+
+      .cbh-phone.cbh-gray.cbh-hover .cbh-ph-circle {
+        border-color: rgba(204, 204, 204, 1);
+        opacity: .5
+      }
+
+      .cbh-phone.cbh-gray .cbh-ph-circle {
+        border-color: rgba(117, 235, 80, 1);
+        opacity: .5
+      }
+
+      .cbh-ph-circle-fill {
+        width: 100px;
+        height: 100px;
+        top: 50px;
+        left: 50px;
+        position: absolute;
+        background-color: #000;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        border: 2px solid transparent;
+        opacity: .1;
+        -webkit-animation: cbh-circle-fill-anim 2.3s infinite ease-in-out;
+        -moz-animation: cbh-circle-fill-anim 2.3s infinite ease-in-out;
+        -ms-animation: cbh-circle-fill-anim 2.3s infinite ease-in-out;
+        -o-animation: cbh-circle-fill-anim 2.3s infinite ease-in-out;
+        animation: cbh-circle-fill-anim 2.3s infinite ease-in-out;
+        -webkit-transition: all .5s;
+        -moz-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s
+      }
+
+      .cbh-phone.cbh-active .cbh-ph-circle-fill {
+        -webkit-animation: cbh-circle-fill-anim 1.7s infinite ease-in-out !important;
+        -moz-animation: cbh-circle-fill-anim 1.7s infinite ease-in-out !important;
+        -ms-animation: cbh-circle-fill-anim 1.7s infinite ease-in-out !important;
+        -o-animation: cbh-circle-fill-anim 1.7s infinite ease-in-out !important;
+        animation: cbh-circle-fill-anim 1.7s infinite ease-in-out !important
+      }
+
+      .cbh-phone.cbh-static .cbh-ph-circle-fill {
+        -webkit-animation: cbh-circle-fill-anim 2.3s infinite ease-in-out !important;
+        -moz-animation: cbh-circle-fill-anim 2.3s infinite ease-in-out !important;
+        -ms-animation: cbh-circle-fill-anim 2.3s infinite ease-in-out !important;
+        -o-animation: cbh-circle-fill-anim 2.3s infinite ease-in-out !important;
+        animation: cbh-circle-fill-anim 2.3s infinite ease-in-out !important;
+        opacity: 0 !important
+      }
+
+      .cbh-phone.cbh-hover .cbh-ph-circle-fill {
+        background-color: rgba(0, 175, 242, .5);
+        opacity: .75 !important
+      }
+
+      .cbh-phone.cbh-green.cbh-hover .cbh-ph-circle-fill {
+        background-color: rgba(117, 235, 80, .5);
+        opacity: .75 !important
+      }
+
+      .cbh-phone.cbh-green .cbh-ph-circle-fill {
+        background-color: rgba(0, 175, 242, .5);
+        opacity: .75 !important
+      }
+
+      .cbh-phone.cbh-gray.cbh-hover .cbh-ph-circle-fill {
+        background-color: rgba(204, 204, 204, .5);
+        opacity: .75 !important
+      }
+
+      .cbh-phone.cbh-gray .cbh-ph-circle-fill {
+        background-color: rgba(117, 235, 80, .5);
+        opacity: .75 !important
+      }
+
+      .cbh-ph-img-circle1 {
+        width: 60px;
+        height: 60px;
+        top: 70px;
+        left: 70px;
+        position: absolute;
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNmlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjarY6xSsNQFEDPi6LiUCsEcXB4kygotupgxqQtRRCs1SHJ1qShSmkSXl7VfoSjWwcXd7/AyVFwUPwC/0Bx6uAQIYODCJ7p3MPlcsGo2HWnYZRhEGvVbjrS9Xw5+8QMUwDQCbPUbrUOAOIkjvjB5ysC4HnTrjsN/sZ8mCoNTIDtbpSFICpA/0KnGsQYMIN+qkHcAaY6addAPAClXu4vQCnI/Q0oKdfzQXwAZs/1fDDmADPIfQUwdXSpAWpJOlJnvVMtq5ZlSbubBJE8HmU6GmRyPw4TlSaqo6MukP8HwGK+2G46cq1qWXvr/DOu58vc3o8QgFh6LFpBOFTn3yqMnd/n4sZ4GQ5vYXpStN0ruNmAheuirVahvAX34y/Axk/96FpPYgAAACBjSFJNAAB6JQAAgIMAAPn/AACA6AAAUggAARVYAAA6lwAAF2/XWh+QAAAB/ElEQVR42uya7W3CMBCG31QM4A1aNggTlG6QbpBMkHYC1AloJ4BOABuEDcgGtBOETnD9c1ERCH/lwxeaV8oPFGP86Hy+DxMREW5Bd7gRjSDSNGn4/RiAOvm8C0ZCRD5PSkQVXSr1nK/xE3mcWimA1ZV3JYBZCIO4giQANoYxMwYS6+xKY4lT5dJPreWZY+uspqSCKPYN27GJVBDXheVSQe494ksiEWTuMXcu1dld9SARxDX1OAJ4lgjy4zDnFsC076A4adEiRwAZg4hOUSpNoCsBPDGM+HqkNGynYBCuILuWj+dgWysGsNe8nwL4GsrW0m2fxZBq9rW0rNcX5MOQ9eZD8JFahcG5g/iKT671alGAYQggpYWvpEPYWrU/HDTOfeRIX0q2SL3QN4tGhZJukVobQyXYWw7WtLDKDIuM+ZSzscyCE9PCy5IttCvnZNaeiGLNHKuz8ZVh/MXTVu/1xQKmIqLEAuJ0fNo3iG5B51oSkeKnsBi/4bG9gYB/lCytU5G9DryFW+3Gm+JLwU7ehbJrwTjq4DJU8bHcVbEV9dXXqqP6uqO5e2/QZRYJpqu2IUAA4B3tXvx8hgKp05QZW6dJqrLTNkB6vrRURLRwPHqtYgkC3cLWQAcDQGGKH13FER/NATzi786+BPDNjm1dMkfjn2pGkBHkf4D8DgBJDuDHx9BN+gAAAABJRU5ErkJggg==);
+        background-color: rgba(30, 30, 30, .1);
+        background-position: center center;
+        background-repeat: no-repeat;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        border: 2px solid transparent;
+        opacity: .7;
+        -webkit-animation: cbh-circle-img-anim 1s infinite ease-in-out;
+        -moz-animation: cbh-circle-img-anim 1s infinite ease-in-out;
+        -ms-animation: cbh-circle-img-anim 1s infinite ease-in-out;
+        -o-animation: cbh-circle-img-anim 1s infinite ease-in-out;
+        animation: cbh-circle-img-anim 1s infinite ease-in-out
+      }
+
+      .cbh-phone.cbh-active .cbh-ph-img-circle1 {
+        -webkit-animation: cbh-circle-img-anim 1s infinite ease-in-out !important;
+        -moz-animation: cbh-circle-img-anim 1s infinite ease-in-out !important;
+        -ms-animation: cbh-circle-img-anim 1s infinite ease-in-out !important;
+        -o-animation: cbh-circle-img-anim 1s infinite ease-in-out !important;
+        animation: cbh-circle-img-anim 1s infinite ease-in-out !important
+      }
+
+      .cbh-phone.cbh-static .cbh-ph-img-circle1 {
+        -webkit-animation: cbh-circle-img-anim 0s infinite ease-in-out !important;
+        -moz-animation: cbh-circle-img-anim 0s infinite ease-in-out !important;
+        -ms-animation: cbh-circle-img-anim 0s infinite ease-in-out !important;
+        -o-animation: cbh-circle-img-anim 0s infinite ease-in-out !important;
+        animation: cbh-circle-img-anim 0s infinite ease-in-out !important
+      }
+
+      .cbh-phone.cbh-hover .cbh-ph-img-circle1 {
+        background-color: rgba(0, 175, 242, 1)
+      }
+
+      .cbh-phone.cbh-green.cbh-hover .cbh-ph-img-circle1:hover {
+        background-color: rgba(117, 235, 80, 1)
+      }
+
+      .cbh-phone.cbh-green .cbh-ph-img-circle1 {
+        background-color: rgba(0, 175, 242, 1)
+      }
+
+      .cbh-phone.cbh-green .cbh-ph-img-circle1 {
+        background-color: rgba(0, 175, 242, 1)
+      }
+
+      .cbh-phone.cbh-gray.cbh-hover .cbh-ph-img-circle1 {
+        background-color: rgba(204, 204, 204, 1)
+      }
+
+      .cbh-phone.cbh-gray .cbh-ph-img-circle1 {
+        background-color: rgba(117, 235, 80, 1)
+      }
+
+      @-moz-keyframes cbh-circle-anim {
+        0% {
+          -moz-transform: rotate(0deg) scale(0.5) skew(1deg);
+          opacity: .1;
+          -moz-opacity: .1;
+          -webkit-opacity: .1;
+          -o-opacity: .1
+        }
+
+        30% {
+          -moz-transform: rotate(0deg) scale(.7) skew(1deg);
+          opacity: .5;
+          -moz-opacity: .5;
+          -webkit-opacity: .5;
+          -o-opacity: .5
+        }
+
+        100% {
+          -moz-transform: rotate(0deg) scale(1) skew(1deg);
+          opacity: .6;
+          -moz-opacity: .6;
+          -webkit-opacity: .6;
+          -o-opacity: .1
+        }
+      }
+
+      @-webkit-keyframes cbh-circle-anim {
+        0% {
+          -webkit-transform: rotate(0deg) scale(0.5) skew(1deg);
+          -webkit-opacity: .1
+        }
+
+        30% {
+          -webkit-transform: rotate(0deg) scale(.7) skew(1deg);
+          -webkit-opacity: .5
+        }
+
+        100% {
+          -webkit-transform: rotate(0deg) scale(1) skew(1deg);
+          -webkit-opacity: .1
+        }
+      }
+
+      @-o-keyframes cbh-circle-anim {
+        0% {
+          -o-transform: rotate(0deg) kscale(0.5) skew(1deg);
+          -o-opacity: .1
+        }
+
+        30% {
+          -o-transform: rotate(0deg) scale(.7) skew(1deg);
+          -o-opacity: .5
+        }
+
+        100% {
+          -o-transform: rotate(0deg) scale(1) skew(1deg);
+          -o-opacity: .1
+        }
+      }
+
+      @keyframes cbh-circle-anim {
+        0% {
+          transform: rotate(0deg) scale(0.5) skew(1deg);
+          opacity: .1
+        }
+
+        30% {
+          transform: rotate(0deg) scale(.7) skew(1deg);
+          opacity: .5
+        }
+
+        100% {
+          transform: rotate(0deg) scale(1) skew(1deg);
+          opacity: .1
+        }
+      }
+
+      @-moz-keyframes cbh-circle-fill-anim {
+        0% {
+          -moz-transform: rotate(0deg) scale(0.7) skew(1deg);
+          opacity: .2
+        }
+
+        50% {
+          -moz-transform: rotate(0deg) -moz-scale(1) skew(1deg);
+          opacity: .2
+        }
+
+        100% {
+          -moz-transform: rotate(0deg) scale(0.7) skew(1deg);
+          opacity: .2
+        }
+      }
+
+      @-webkit-keyframes cbh-circle-fill-anim {
+        0% {
+          -webkit-transform: rotate(0deg) scale(0.7) skew(1deg);
+          opacity: .2
+        }
+
+        50% {
+          -webkit-transform: rotate(0deg) scale(1) skew(1deg);
+          opacity: .2
+        }
+
+        100% {
+          -webkit-transform: rotate(0deg) scale(0.7) skew(1deg);
+          opacity: .2
+        }
+      }
+
+      @-o-keyframes cbh-circle-fill-anim {
+        0% {
+          -o-transform: rotate(0deg) scale(0.7) skew(1deg);
+          opacity: .2
+        }
+
+        50% {
+          -o-transform: rotate(0deg) scale(1) skew(1deg);
+          opacity: .2
+        }
+
+        100% {
+          -o-transform: rotate(0deg) scale(0.7) skew(1deg);
+          opacity: .2
+        }
+      }
+
+      @keyframes cbh-circle-fill-anim {
+        0% {
+          transform: rotate(0deg) scale(0.7) skew(1deg);
+          opacity: .2
+        }
+
+        50% {
+          transform: rotate(0deg) scale(1) skew(1deg);
+          opacity: .2
+        }
+
+        100% {
+          transform: rotate(0deg) scale(0.7) skew(1deg);
+          opacity: .2
+        }
+      }
+
+      @keyframes cbh-circle-img-anim {
+        0% {
+          transform: rotate(0deg) scale(1) skew(1deg)
+        }
+
+        10% {
+          transform: rotate(-25deg) scale(1) skew(1deg)
+        }
+
+        20% {
+          transform: rotate(25deg) scale(1) skew(1deg)
+        }
+
+        30% {
+          transform: rotate(-25deg) scale(1) skew(1deg)
+        }
+
+        40% {
+          transform: rotate(25deg) scale(1) skew(1deg)
+        }
+
+        100%,
+        50% {
+          transform: rotate(0deg) scale(1) skew(1deg)
+        }
+      }
+
+      @-moz-keyframes cbh-circle-img-anim {
+        0% {
+          transform: rotate(0deg) scale(1) skew(1deg)
+        }
+
+        10% {
+          -moz-transform: rotate(-25deg) scale(1) skew(1deg)
+        }
+
+        20% {
+          -moz-transform: rotate(25deg) scale(1) skew(1deg)
+        }
+
+        30% {
+          -moz-transform: rotate(-25deg) scale(1) skew(1deg)
+        }
+
+        40% {
+          -moz-transform: rotate(25deg) scale(1) skew(1deg)
+        }
+
+        100%,
+        50% {
+          -moz-transform: rotate(0deg) scale(1) skew(1deg)
+        }
+      }
+
+      @-webkit-keyframes cbh-circle-img-anim {
+        0% {
+          -webkit-transform: rotate(0deg) scale(1) skew(1deg)
+        }
+
+        10% {
+          -webkit-transform: rotate(-25deg) scale(1) skew(1deg)
+        }
+
+        20% {
+          -webkit-transform: rotate(25deg) scale(1) skew(1deg)
+        }
+
+        30% {
+          -webkit-transform: rotate(-25deg) scale(1) skew(1deg)
+        }
+
+        40% {
+          -webkit-transform: rotate(25deg) scale(1) skew(1deg)
+        }
+
+        100%,
+        50% {
+          -webkit-transform: rotate(0deg) scale(1) skew(1deg)
+        }
+      }
+
+      @-o-keyframes cbh-circle-img-anim {
+        0% {
+          -o-transform: rotate(0deg) scale(1) skew(1deg)
+        }
+
+        10% {
+          -o-transform: rotate(-25deg) scale(1) skew(1deg)
+        }
+
+        20% {
+          -o-transform: rotate(25deg) scale(1) skew(1deg)
+        }
+
+        30% {
+          -o-transform: rotate(-25deg) scale(1) skew(1deg)
+        }
+
+        40% {
+          -o-transform: rotate(25deg) scale(1) skew(1deg)
+        }
+
+        100%,
+        50% {
+          -o-transform: rotate(0deg) scale(1) skew(1deg)
+        }
+      }
+
+      .cbh-ph-img-circle1 {}
+
+      .cbh-phone.cbh-green .cbh-ph-circle {
+        border-color: rgba(0, 175, 242, 1)
+      }
+
+      .cbh-phone.cbh-green .cbh-ph-circle-fill {
+        background-color: rgba(0, 175, 242, 1);
+      }
+
+      .cbh-phone.cbh-green .cbh-ph-img-circle1 {
+        background-color: rgba(0, 175, 242, 1);
+      }
+
+      body,
+      div,
+      dl,
+      dt,
+      dd,
+      ul,
+      ol,
+      li,
+      nav,
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      pre,
+      code,
+      form,
+      fieldset,
+      legend,
+      input,
+      button,
+      textarea,
+      p,
+      blockquote,
+      th,
+      td,
+      a {
+        -webkit-transform-origin: center center;
+        -ms-transform-origin: center center;
+        -o-transform-origin: center center;
+        transform-origin: center center;
+      }
+    }
+  </style>
+  <!-- INTH_SNIPPET_TOP -->
+  </head>
+
+<body class="ev-date" data-invalid-name-text="Моля, въведете валидно име!"
+  data-invalid-phone-text="Моля, въведете валиден телефонен номер, в противен случай ние няма да можем да се свържем с Вас!">
+  <div class="promo-bg">
+    <header class="header">
+      <div class="container container-big">
+        <div class="header__content">
+          <div class="header__logo"> <img src="assets/images/logo.png" alt="logo"></div>
+          <div class="header__main"><a class="header__link header__link--composition" href="#composition">Състав</a><a
+              class="header__link header__link--reviews" href="#reviews">Отзиви</a>
+            <div class="header__timer">
+          
+            </div><button class="header__btn btn ever-popup-btn pulse">ПОРЪЧАЙ</button>
+          </div><button class="header__burger"><span class="header-burger__line"></span></button>
+        </div>
+      </div>
+    </header>
+    <section class="promo block">
+      <div class="container">
+        <div class="promo__content">
+          <h2 class="title promo__title">Нова методика за запазване на слуха</h2>
+          <div class="promo__pack">
+            <picture>
+
+              <source media="(max-width: 479px)" "assets/images/pack-mob.png">
+
+              <img src="assets/images/pack.png"  style="padding-left:200px" alt="product">
+            </picture>
+          </div>
+          <div class="promo__box">
+            <div class="promo__date">Само днес <span class="date-0" data-format="dd monthFull yyyy"></span></div>
+            <div class="promo__price price">
+              <div class="price__old"><span class="x_price_previous">40  </span> <span class="x_currency">EUR</span>
+              </div>
+              <div class="price__new"><span class="x_price_current">20</span> <span class="x_currency">EUR</span></div>
+            </div>
+          </div>
+          <div class="promo__form">
+            <form class="x_order_form form   orderForm     "   method="post"><label class="form__input--wrap"><input required
+                  class="form__input" placeholder="Име" type="text" name="name" required></label><label
+                class="form__input--wrap"><input class="form__input" placeholder="Телефонен Номер" type="tel" required
+                  name="phone"   onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"   ></label><button class="btn form__btn pulse">ПОРЪЧАЙ</button>
+                  <div class="nw">
+                    <img src="assets/images/delivery.png"
+                        style="max-width: 45px; width: 100%" />
+                    <span>Стойността на доставката уточнете при мениджъра</span>
+                </div></form>
+          </div>
+          <div class="promo__medals">
+            <div class="promo__medal"><img src="assets/images/medal-1.png" alt="medаl"></div>
+            <div class="promo__medal promo__medal--second"><img src="assets/images/medal-promo.png" alt="medаl"></div>
+            <div class="promo__medal"><img src="assets/images/medal-3.png" alt="medаl"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <section class="sings block">
+    <div class="container">
+      <ul class="sings__list">
+        <li class="sings__item"> <img class="sings__icon" src="assets/fonts/sign-icon-1.svg" alt="sign">
+          <p class="sings__text">може да подобри слуха и да елиминира шума в ушите</p>
+        </li>
+        <li class="sings__item"> <img class="sings__icon" src="assets/fonts/sign-icon-2.svg" alt="sign">
+          <p class="sings__text">подпомага нормализирането на цикъла сън-събуждане</p>
+        </li>
+        <li class="sings__item"> <img class="sings__icon" src="assets/fonts/sign-icon-3.svg" alt="sign">
+          <p class="sings__text">помага за успокояване на нервната система</p>
+        </li>
+      </ul>
+      <h2 class="title sings__title">ОБЪРНЕТЕ ВНИМАНИЕ!</h2>
+      <h3 class="subtitle sings__subtitle">на тези признаци:</h3>
+      <ul class="sings__content">
+        <li class="sings__box">
+          <div class="sings__img">
+            <picture>
+              <source type="image/webp" "assets/images/sing-1.webp"><img src="assets/images/sing-1.jpg" alt="sign">
+            </picture>
+          </div>
+          <h4 class="sings__name">шум в ушите</h4>
+        </li>
+        <li class="sings__box">
+          <div class="sings__img">
+            <picture>
+              <source type="image/webp" "assets/images/sing-2.webp"><img src="assets/images/sing-2.jpg" alt="sign">
+            </picture>
+          </div>
+          <h4 class="sings__name">виене на свят</h4>
+        </li>
+        <li class="sings__box">
+          <div class="sings__img">
+            <picture>
+              <source type="image/webp" "assets/images/sing-3.webp"><img src="assets/images/sing-3.jpg" alt="sign">
+            </picture>
+          </div>
+          <h4 class="sings__name">болка и дискомфорт</h4>
+        </li>
+        <li class="sings__box">
+          <div class="sings__img">
+            <picture>
+              <source type="image/webp" "assets/images/sing-4.webp"><img src="assets/images/sing-4.jpg" alt="sign">
+            </picture>
+          </div>
+          <h4 class="sings__name">проблеми със съня</h4>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <section class="problem block bgr">
+    <div class="container">
+      <h2 class="title problem__title">Ако не решите проблема, Вие го влошавате до необратими последици</h2>
+      <h3 class="subtitle problem__subtitle">Не позволявайте това да се случи!</h3>
+      <ul class="problem__list">
+        <li class="problem__item">
+          <div class="problem__icon"> <img src="assets/fonts/problem-1.svg" alt="problem"></div>
+          <div class="problem__info">
+            <h4 class="problem__name">Загуба на слуха</h4>
+            <p class="problem__text">сериозен риск възниква на фона на нарушен кръвоток и увреждане на клетките на
+              вътрешното ухо</p>
+          </div>
+        </li>
+        <li class="problem__item">
+          <div class="problem__icon"> <img src="assets/fonts/problem-2.svg" alt="problem"></div>
+          <div class="problem__info">
+            <h4 class="problem__name">Хронични заболявания</h4>
+            <p class="problem__text">пониженият имунитет и отслабените бариерни функции причиняват гнойни инфекции и
+              предизвикват чести отити</p>
+          </div>
+        </li>
+        <li class="problem__item">
+          <div class="problem__icon"> <img src="assets/fonts/problem-3.svg" alt="problem"></div>
+          <div class="problem__info">
+            <h4 class="problem__name">Постоянни мигрени</h4>
+            <p class="problem__text">нарушаването на цикъла сън-събуждане и високите нива на стрес оказват негативно
+              влияние върху състоянието на нервната система</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <div class="action">
+    <div class="container">
+      <div class="action__inner block">
+        <p class="action__title">Само днес <span class="date-0" data-format="dd monthFull yyyy"></span></p>
+        <picture class="action__image">
+          <img class="action__prod" src="assets/images/product-4_mob.png" loading="lazy" alt="imаge">
+        </picture>
+        <div class="action__price price">
+          <div class="price__old"><span class="x_price_previous">40  </span> <span class="x_currency">EUR</span></div>
+          <div class="price__new"><span class="x_price_current">20</span> <span class="x_currency">EUR</span></div>
+        </div>
+        <form class="action__form x_order_form form   orderForm     "   method="post"><label
+            class="form__input--wrap action__input"><input class="form__input" placeholder="Име" type="text" name="name" required
+              required></label><label class="form__input--wrap action__input"><input class="form__input" required
+              placeholder="Телефонен Номер" type="tel" name="phone"   onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"   ></label><button
+            class="btn action__btn pulse">ПОРЪЧАЙ</button></form>
+      </div>
+    </div>
+  </div>
+  <section class="technology block">
+    <div class="container">
+      <div class="technology__content">
+        <div class="technology__info">
+          <h2 class="title technology__title">Усъвършенствана технология на ЕС срещу проблеми със слуха</h2>
+          <div class="technology__box">
+            <p class="technology__text">Всяка година броят на хората, страдащи от загуба на слуха, се увеличава.
+              Причините могат да бъдат характеристики на работата, ушни инфекции, наследственост, нарушения на нервната
+              система, както и вируси от ново поколение. Отслабеният имунитет е силно податлив на тяхното вредно
+              въздействие. И слуховите органи трябва да бъдат снабдени с допълнителна защита. </p>
+            <p class="technology__text">Водещи европейски специалисти са разработили средство, който помага за решаване
+              на проблеми със слуха чрез влияние директно върху централната нервна система и повишаване на антивирусните
+              бариерни функции на тялото. Е използван за първи път за елиминиране на проблемите със
+              слуха, и е доказано, че може да помогне <b>да намали болката, да намали шума и да намали нивата на
+                стрес.</b></p>
+          </div>
+        </div>
+        <div class="technology__img">
+          <picture>
+            <source media="(max-width: 479px)" "assets/images/technology-img-mob.webp" type="image/webp">
+            <source type="image/webp" "assets/images/technology-img.webp"><img src="assets/images/technology-img.jpg"
+              alt="technology">
+          </picture>
+          <div class="technology-img__name">Европейска асоциация за борба с глухотата</div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="restore block bgr">
+    <div class="container">
+      <div class="restore__content">
+        <div class="restore__box">
+          <h2 class="title restore__title">Как Otolax ще възстанови слуха</h2>
+          <ul class="restore__list">
+            <li class="restore__item">
+              <div class="restore__icon">
+                <div class="restore-icon__text">1</div>
+              </div>
+              <p class="restore__text">Може да подобри слуха и да елиминира шума в ушите Може да подобри
+                кръвоснабдяването. Помага за намаляване на мускулния тонус и спазми</p>
+            </li>
+            <li class="restore__item">
+              <div class="restore__icon">
+                <div class="restore-icon__text">2</div>
+              </div>
+              <p class="restore__text">Помага за успокояване на нервната система и подобряване на защитните функции на
+                тялото. Растителните екстракти в състава имат благоприятен ефект върху общото състояние на тялото, могат
+                да допринесат за регенерацията на клетките и възстановяването на слуха.</p>
+            </li>
+            <li class="restore__item">
+              <div class="restore__icon">
+                <div class="restore-icon__text">3</div>
+              </div>
+              <p class="restore__text">Допринася за нормализиране на цикъла сън-събуждане, абсорбира
+                свободните радикали, които засягат клетките и предизвикват стрес и влошаване на съня</p>
+            </li>
+          </ul>
+        </div>
+        <div class="restore__pack">
+          <picture>
+            <img src="assets/images/pack-2.png" alt="product">
+          </picture>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="can block">
+    <div class="container">
+      <h2 class="title can__title">Можете да подобрите качеството на живота!</h2>
+      <div class="can__content">
+        <div class="can__box">
+          <div class="can__img">
+            <picture>
+              <source type="image/webp" "assets/images/can-1.webp"><img src="assets/images/can-1.jpg" alt="саn">
+            </picture>
+          </div>
+          <ul class="can__list">
+            <li class="can__item">Общувайте без ограничения</li>
+            <li class="can__item">Забравете за болката в ушите</li>
+            <li class="can__item">Забравете за шум в ушите</li>
+          </ul>
+        </div>
+        <div class="can__box">
+          <div class="can__img">
+            <picture>
+              <source type="image/webp" "assets/images/can-2.webp"><img src="assets/images/can-2.jpg" alt="саn">
+            </picture>
+          </div>
+          <ul class="can__list">
+            <li class="can__item">Забравете за звънтене в ушите</li>
+            <li class="can__item">Не се страхувайте от влошаване на слуха</li>
+            <li class="can__item">Живейте пълноценен живот</li>
+          </ul>
+        </div>
+        <div class="can__box">
+          <div class="can__img">
+            <picture>
+              <source type="image/webp" "assets/images/can-3.webp"><img src="assets/images/can-3.jpg" alt="саn">
+            </picture>
+          </div>
+          <ul class="can__list">
+            <li class="can__item">Радвайте се на всеки звук</li>
+            <li class="can__item">Върнете си удоволствието от разговорите с близките си</li>
+            <li class="can__item">Слушайте отново любимата си музика</li>
+          </ul>
+        </div>
+        <div class="can__box">
+          <div class="can__img">
+            <picture>
+              <source type="image/webp" "assets/images/can-4.webp"><img src="assets/images/can-4.jpg" alt="саn">
+            </picture>
+          </div>
+          <ul class="can__list">
+            <li class="can__item">Почувствайте удоволствието от пеенето на птиците и смеха на близките хора</li>
+            <li class="can__item">Отърви се от дискомфорта в ежедневието и на работното място</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="action">
+    <div class="container">
+      <div class="action__inner action__inner-top_line block">
+        <p class="action__title">Само днес <span class="date-0" data-format="dd monthFull yyyy"></span></p>
+        <picture class="action__image">
+          <img class="action__prod" src="assets/images/product-4_mob.png" loading="lazy" alt="imаge">
+        </picture>
+        <div class="action__price price">
+          <div class="price__old"><span class="x_price_previous">40  </span> <span class="x_currency">EUR</span></div>
+          <div class="price__new"><span class="x_price_current">20</span> <span class="x_currency">EUR</span></div>
+        </div>
+        <form class="action__form x_order_form form   orderForm     "   method="post"><label
+            class="form__input--wrap action__input"><input class="form__input" placeholder="Име" type="text" name="name" required
+              required></label><label class="form__input--wrap action__input"><input class="form__input" required
+              placeholder="Телефонен Номер" type="tel" name="phone"   onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"   ></label><button
+            class="btn action__btn pulse">ПОРЪЧАЙ</button></form>
+      </div>
+    </div>
+  </div>
+  <section class="composition block" id="composition">
+    <div class="container">
+      <h2 class="composition__title title">Състав На Otolax</h2>
+      <div class="composition__inner">
+        <div class="composition__content">
+
+          <div class="composition__item composition__item-2">
+            <div class="composition__item-header">
+              <div class="composition__item-image"><img src="assets/images/composition_image_3.png" alt="icon"></div>
+              <p class="composition__item-title text-bold">Конски кестен и
+                кора от канела</p>
+            </div>
+            <p class="composition__item-text">насърчава регенерацията на нервите след загуба на слуха <span
+                class="text-nowrap">заради</span> въздействието на шума или загуба на слуха, помага за подобряване на
+              предаването на звукова информация към мозъка</p>
+          </div>
+          <div class="composition__item composition__item-3">
+            <div class="composition__item-header">
+              <div class="composition__item-image"><img src="assets/images/composition_image_3.png" alt="icon"></div>
+              <p class="composition__item-title text-bold">Корен от елеутерокок и
+                златна пръчица надземна част с цветове</p>
+            </div>
+            <p class="composition__item-text">помага за възстановяване на ушните клетки, помага за намаляване на шума в
+              ушите, подобрява съдовия тонус и може да забави естествените възрастови промени в слуха</p>
+          </div>
+          <div class="composition__item composition__item-4">
+            <div class="composition__item-header">
+              <div class="composition__item-image"><img src="assets/images/composition_image_3.png" alt="icon"></div>
+              <p class="composition__item-title text-bold">Етерично масло от чаено дърво и
+                етерично масло от розмарин</p>
+            </div>
+            <p class="composition__item-text">помагат за подобряване на притока на кръв към вътрешното ухо, могат да
+              имат антиоксидантен ефект и да поддържат нормалното функциониране на мозъка</p>
+          </div>
+        </div>
+        <picture class="composition__image">
+
+          <source media="(min-width: 640px)" "assets/images/product-3.png">
+          <img class="composition__prod" src="assets/images/product-3_mob.png" loading="lazy" alt="imаge">
+        </picture>
+      </div>
+    </div>
+  </section>
+  <section class="testing block">
+    <div class="container">
+      <h2 class="testing__title title">Otolax получи висока потребителска оценка</h2>
+      <p class="testing__subtitle">Сред хората, преминали курса на Otolax, се наблюдаваше предимно положителна
+        динамика
+        и липсваха странични ефекти</p>
+      <div class="testing__content">
+        <div class="testing__item">
+          <div class="testing__item-image testing__item-image-1"><img src="assets/images/testing_image-1.png" loading="lazy"
+              alt="imаge"></div>
+          <p class="testing__item-text">забелязали положителни промени</p>
+        </div>
+        <div class="testing__item">
+          <div class="testing__item-image testing__item-image-2"><img src="assets/images/testing_image-2.png" loading="lazy"
+              alt="imаge"></div>
+          <p class="testing__item-text">успяха забележимо да възстановят остротата на слуха</p>
+        </div>
+        <div class="testing__item">
+          <div class="testing__item-image testing__item-image-3"><img src="assets/images/testing_image-3.png" loading="lazy"
+              alt="imаge"></div>
+          <p class="testing__item-text">отървали се от дискомфорт и шум в ушите</p>
+        </div>
+      </div>
+      <div class="testing__certificate-wrapper">
+        <div class="testing__certificate">
+          <picture>
+            <img src="assets/images/certificate_img-1.png" loading="lazy" alt="imаge">
+          </picture>
+          <picture>
+            <img src="assets/images/certificate_img-2.png" loading="lazy" alt="imаge">
+          </picture>
+          <picture>
+            <img src="assets/images/certificate_img-3.png" loading="lazy" alt="imаge">
+          </picture>
+        </div>
+      </div>
+      <div class="btn testing__btn ever-popup-btn pulse">ПОРЪЧАЙ</div>
+    </div>
+  </section>
+  <section class="expert">
+    <div class="container">
+      <div class="expert__inner block">
+        <h2 class="expert__title title">Експертно Мнение</h2>
+        <p class="expert__text expert__line">Смятам, че използването на Otolax е достоен пробив. Всяко средство,
+          което се основава на растителни екстракти, заслужава специално внимание. Тъй като взаимодействието на
+          съставките може да има комплексен ефект.</p>
+        <p class="expert__text"><span class="text-bold">Otolax</span> - пример за точно такъв продукт. Тъй като
+          достигането до проблема със загубата на слуха чрез възстановяване на съня и установяване на работата на
+          централната нервна система е добър вариант. Тъй като отслабването на защитните функции на слуховите органи и
+          на цялото тяло като цяло ни прави по-уязвими към нови вируси. Важно е да се отбележи, че сред потребителите
+          отбелязахме положителна динамика и добри отзиви. За по-напреднали случаи се препоръчва да се вземат два курса
+          на Otolax.</p>
+        <div class="expert__info-wrapper">
+          <div class="expert__info">
+            <p class="expert__name text-bold">Иван Киров</p>
+            <p class="expert__pos">Ръководител на Изследователския център на Западна Европа, специалист по създаване на
+              техники и помощни практики за подобряване на слуха. Стаж - 20 години</p>
+          </div>
+        </div>
+        <picture class="expert__image">
+          <source media="(min-width: 768px)" "assets/images/expert_image.webp" type="image/webp">
+          <source media="(min-width: 768px)" "assets/images/expert_image.png">
+          <source "data:image/png;base64, PchI7wAAAABJRU5ErkJggg%3D%3D.html">
+          <img src="assets/images/expert_image.png" loading="lazy" alt="imаge">
+        </picture>
+      </div>
+    </div>
+  </section>
+  <section class="reviews" id="reviews">
+    <div class="action">
+      <div class="container">
+        <div class="action__inner block">
+          <p class="action__title">Само днес <span class="date-0" data-format="dd monthFull yyyy"></span></p>
+          <picture class="action__image">
+            <img class="action__prod" src="assets/images/product-4_mob.png" loading="lazy" alt="imаge">
+          </picture>
+          <div class="action__price price">
+            <div class="price__old"><span class="x_price_previous">40  </span> <span class="x_currency">EUR</span></div>
+            <div class="price__new"><span class="x_price_current">20</span> <span class="x_currency">EUR</span></div>
+          </div>
+          <form class="action__form x_order_form form   orderForm     "   method="post"><label
+              class="form__input--wrap action__input"><input class="form__input" placeholder="Име" type="text" required
+                name="name" required></label><label class="form__input--wrap action__input"><input required
+                class="form__input" placeholder="Телефонен Номер" type="tel" name="phone"
+                  onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"   ></label><button class="btn action__btn pulse">ПОРЪЧАЙ</button></form>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="reviews__inner block">
+        <h2 class="reviews__title title">Отзиви на клиенти</h2>
+        <div class="reviews__content reviews__slider">
+          <div class="reviews__item">
+            <div class="reviews__item-header">
+              <picture class="reviews__item-ava">
+                <source "assets/images/reviews_ava-1.webp" type="image/webp"><img src="assets/images/reviews_ava-1.png"
+                  loading="lazy" alt="imаge">
+              </picture>
+              <div class="reviews__item-info">
+                <p class="reviews__item-name text-bold">Елена, 54 години</p>
+                <p class="reviews__item-stars"> </p>
+                <p class="reviews__item-date date-0">
+                </p>
+              </div>
+            </div>
+            <div class="reviews__item-text">Моят колега премина два курса Otolax и аз, например, се нуждаех само
+              от
+              един. Винаги избирам продукти с растителни съставки.</div>
+          </div>
+          <div class="reviews__item">
+            <div class="reviews__item-header">
+              <picture class="reviews__item-ava">
+                <source "assets/images/reviews_ava-2.webp" type="image/webp"><img src="assets/images/reviews_ava-2.png"
+                  loading="lazy" alt="imаge">
+              </picture>
+              <div class="reviews__item-info">
+                <p class="reviews__item-name text-bold">Мария, 43 години</p>
+                <p class="reviews__item-stars"> </p>
+                <p class="reviews__item-date date-0">
+                </p>
+              </div>
+            </div>
+            <div class="reviews__item-text">Работя във фабрика, сред постоянен шум. И изглеждаше, че този шум ме
+              преследва дори у дома. Той не спираше и ми пречеше да спа. Затова съм много щастлива, че избрах Otolax
+              !
+            </div>
+            <div class="reviews__item-more"></div>
+          </div>
+          <div class="reviews__item">
+            <div class="reviews__item-header">
+              <picture class="reviews__item-ava">
+                <source "assets/images/reviews_ava-3.webp" type="image/webp"><img src="assets/images/reviews_ava-3.png"
+                  loading="lazy" alt="imаge">
+              </picture>
+              <div class="reviews__item-info">
+                <p class="reviews__item-name text-bold">Андрей, 55 години</p>
+                <p class="reviews__item-stars"> </p>
+                <p class="reviews__item-date date-1">
+                </p>
+              </div>
+            </div>
+            <div class="reviews__item-text">Прочетох за Otolax в интернет и съм много щастлив, че успях да намеря
+              такъв
+              добър продукт.</div>
+          </div>
+          <div class="reviews__item">
+            <div class="reviews__item-header">
+              <picture class="reviews__item-ava">
+                <source "assets/images/reviews_ava-4.webp" type="image/webp"><img src="assets/images/reviews_ava-4.png"
+                  loading="lazy" alt="imаge">
+              </picture>
+              <div class="reviews__item-info">
+                <p class="reviews__item-name text-bold">Димитър, 33 години</p>
+                <p class="reviews__item-stars"> </p>
+                <p class="reviews__item-date date-1">
+                </p>
+              </div>
+            </div>
+            <div class="reviews__item-text">От малък страдам от хроничен отит. И това увеличава риска от загуба на
+              слуха. Четох много добри отзиви за Otolax, поръчах го и не съжалявах. Ефектът е кумулативен, но
+              първите
+              резултати се забелязват след около седмица.</div>
+            <div class="reviews__item-more"></div>
+          </div>
+          <div class="reviews__item">
+            <div class="reviews__item-header">
+              <picture class="reviews__item-ava">
+                <source "assets/images/reviews_ava-5.webp" type="image/webp"><img src="assets/images/reviews_ava-5.png"
+                  loading="lazy" alt="imаge">
+              </picture>
+              <div class="reviews__item-info">
+                <p class="reviews__item-name text-bold">Стефка, 65 години</p>
+                <p class="reviews__item-stars"> </p>
+                <p class="reviews__item-date date-1">
+                </p>
+              </div>
+            </div>
+            <div class="reviews__item-text">Съпругът започна да гледа телевизия с голям звук. Забелязох нещо нередно и
+              му поръчах тези капсули. Без много ентусиазъм, но започна да ги приема. Минаха 1,5 месеца и сега нашите
+              съседи не чуват телевизора. Страхотен резултат!</div>
+            <div class="reviews__item-more"></div>
+          </div>
+          <div class="reviews__item">
+            <div class="reviews__item-header">
+              <picture class="reviews__item-ava">
+                <source "assets/images/reviews_ava-6.webp" type="image/webp"><img src="assets/images/reviews_ava-6.png"
+                  loading="lazy" alt="imаge">
+              </picture>
+              <div class="reviews__item-info">
+                <p class="reviews__item-name text-bold">Ана, 44 години</p>
+                <p class="reviews__item-stars"> </p>
+                <p class="reviews__item-date date-1">
+                </p>
+              </div>
+            </div>
+            <div class="reviews__item-text">Майка ми започна да чува все по-зле. В една от платените клиники
+              оплакванията й дори не искаха да слушат, но веднага започнаха да се стремят към закупуване на слухов
+              апарат! А това са много пари! Но аз взех нещата в свои ръце и намерих чудесно средство за нея. Така че
+              моята благодарност към производителите на Otolax!</div>
+            <div class="reviews__item-more"></div>
+          </div>
+          <div class="reviews__item">
+            <div class="reviews__item-header">
+              <picture class="reviews__item-ava">
+                <source "assets/images/reviews_ava-7.webp" type="image/webp"><img src="assets/images/reviews_ava-7.png"
+                  loading="lazy" alt="imаge">
+              </picture>
+              <div class="reviews__item-info">
+                <p class="reviews__item-name text-bold">Филип, 67 години</p>
+                <p class="reviews__item-stars"> </p>
+                <p class="reviews__item-date date-2">
+                </p>
+              </div>
+            </div>
+            <div class="reviews__item-text">Вземах Otolax в продължение на един месец. И много доволен съм от
+              резултата. Налягането в ушите ми изчезна и сякаш отново чух всички звуци наоколо!</div>
+          </div>
+          <div class="reviews__item">
+            <div class="reviews__item-header">
+              <picture class="reviews__item-ava">
+                <source "assets/images/reviews_ava-8.webp" type="image/webp"><img src="assets/images/reviews_ava-8.png"
+                  loading="lazy" alt="imаge">
+              </picture>
+              <div class="reviews__item-info">
+                <p class="reviews__item-name text-bold">Петър, 57 години</p>
+                <p class="reviews__item-stars"> </p>
+                <p class="reviews__item-date date-2">
+                </p>
+              </div>
+            </div>
+            <div class="reviews__item-text">Започнах да забелязвам, че препитвам събеседниците, моля ги да повторят
+              казаното два пъти. Естествено, отидох в клиниката. Но ми се падна страхотен специалист! Не се склони към
+              операция или слухов апарат, но посъветва да започне с приемането на Otolax. И така, след два курса,
+              искам
+              да Ви уверя в ефективността на това средство. Всичко е наред!</div>
+            <div class="reviews__item-more"></div>
+          </div>
+          <div class="reviews__item">
+            <div class="reviews__item-header">
+              <picture class="reviews__item-ava">
+                <source "assets/images/reviews_ava-9.webp" type="image/webp"><img src="assets/images/reviews_ava-9.png"
+                  loading="lazy" alt="imаge">
+              </picture>
+              <div class="reviews__item-info">
+                <p class="reviews__item-name text-bold">Марта, 29 години</p>
+                <p class="reviews__item-stars"> </p>
+                <p class="reviews__item-date date-2">
+                </p>
+              </div>
+            </div>
+            <div class="reviews__item-text">Купих Otolax на баща ми преди два месеца. Цял живот е работил на
+              строеж,
+              където има постоянен шум. И така, с възрастта, слухът му започна да се влошава. Но след един курс Otolax
+              
+              ситуацията се подобри значително!</div>
+            <div class="reviews__item-more"></div>
+          </div>
+          <div class="reviews__item">
+            <div class="reviews__item-header">
+              <picture class="reviews__item-ava">
+                <source "assets/images/reviews_ava-10.webp" type="image/webp"><img src="assets/images/reviews_ava-10.png"
+                  loading="lazy" alt="imаge">
+              </picture>
+              <div class="reviews__item-info">
+                <p class="reviews__item-name text-bold">Дафинка, 55 години</p>
+                <p class="reviews__item-stars"> </p>
+                <p class="reviews__item-date date-2">
+                </p>
+              </div>
+            </div>
+            <div class="reviews__item-text">За мен загубата на слуха е ужасно събитие. Преподавам в музикалното училище.
+              Слухът е моят хляб. Трябваше много да слушам учениците. И постоянно напрежение ужасно ме болеше главата,
+              не можех да спя нормално. И един от моите ученици каза, че баба му е успяла да възстанови слуха си с
+              Otolax. Беше ми достатъчен само един курс. И музиката, преподаването и радостта се върнаха в живота
+              ми!
+            </div>
+            <div class="reviews__item-more"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="use block">
+    <div class="container">
+      <h2 class="use__title title">Как да приемате Otolax</h2>
+      <div class="use__inner">
+        <ul class="use__content">
+          <li class="use__item"><img class="use__item-image" src="assets/images/use_item_image-1.png" loading="lazy"
+              alt="imаge">
+            <p class="use__item-title text-bold">Стъпка 1</p>
+            <p class="use__item-text">Вземете 1 капсула веднъж дневно</p>
+          </li>
+          <li class="use__item"><img class="use__item-image" src="assets/images/use_item_image-2.png" loading="lazy"
+              alt="imаge">
+            <p class="use__item-title text-bold">Стъпка 2</p>
+            <p class="use__item-text">Запийте я с чаша вода</p>
+          </li>
+          <li class="use__item"><img class="use__item-image" src="assets/images/use_item_image-3.png" loading="lazy"
+              alt="imаge">
+            <p class="use__item-title text-bold">Стъпка 3</p>
+            <p class="use__item-text">Повторете ежедневно през целия курс</p>
+          </li>
+        </ul>
+        <div class="use__image">
+          <picture>
+
+            <source media="(min-width: 768px)" "assets/images/product-4.png">
+            <img class="use__prod" src="assets/images/product-4_mob.png" loading="lazy" alt="imаge">
+          </picture>
+          <picture>
+            <source "assets/images/medal-2.webp" type="image/webp"><img class="use__medal" src="assets/images/medal-2.png"
+              loading="lazy" alt="imаge">
+          </picture>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="recommend">
+    <div class="container">
+      <div class="recommend__inner block">
+        <picture class="recommend__image">
+          <source media="(min-width: 640px)" "assets/images/expert_image.webp" type="image/webp">
+          <source media="(min-width: 640px)" "assets/images/expert_image.png">
+          <source "data:image/png;base64, PchI7wAAAABJRU5ErkJggg%3D%3D.html">
+          <img src="assets/images/expert_image.png" loading="lazy" alt="imаge">
+        </picture>
+        <ul class="recommend__list">
+          <li class="recommend__item recommend__item-1">За да ускорите ефекта Otolax, използвайте тапи за уши
+          </li>
+          <li class="recommend__item recommend__item-2">За максимален ефект на Otolax не пропускайте да приемате
+            капсулите</li>
+          <li class="recommend__item recommend__item-3">За да предотвратите проблеми със слуха, опитайте се да избягвате
+            шумни места</li>
+        </ul>
+        <p class="recommend__name text-bold">Иван Киров</p>
+        <p class="recommend__pos">Ръководител на Изследователския център на Западна Европа, специалист по създаване на
+          техники и помощни практики за подобряване на слуха. Стаж - 20 години</p>
+      </div>
+    </div>
+  </div>
+  <section class="order block">
+    <div class="container">
+      <h2 class="order__title title">Как да поръчате Otolax</h2>
+      <div class="order__content">
+        <div class="order__item">
+          <picture>
+            <source "assets/images/order_image-1.webp" type="image/webp"><img class="order__item-image"
+              src="assets/images/order_image-1.png" loading="lazy" alt="imаge">
+          </picture>
+          <p class="order__item-title text-bold">Попълнете формуляра за поръчка</p>
+          <p class="order__item-text">Въведете име и телефонен номер</p>
+        </div>
+        <div class="order__item">
+          <picture>
+            <source "assets/images/order_image-2.webp" type="image/webp"><img class="order__item-image"
+              src="assets/images/order_image-2.png" loading="lazy" alt="imаge">
+          </picture>
+          <p class="order__item-title text-bold">Отговорете на обаждането на оператора</p>
+          <p class="order__item-text">Той ще изясни адресните Ви данни и ще отговори на всички въпроси</p>
+        </div>
+        <div class="order__item">
+          <picture>
+            <source "assets/images/order_image-3.webp" type="image/webp"><img class="order__item-image"
+              src="assets/images/order_image-3.png" loading="lazy" alt="imаge">
+          </picture>
+          <p class="order__item-title text-bold">Платете след получаване</p>
+          <p class="order__item-text">Не се изисква предплащане</p>
+        </div>
+        <div class="order__item">
+          <picture>
+            <source "assets/images/order_image-4.webp" type="image/webp"><img class="order__item-image"
+              src="assets/images/order_image-4.png" loading="lazy" alt="imаge">
+          </picture>
+          <p class="order__item-title text-bold">Почувствайте подобрението</p>
+          <p class="order__item-text">Върнете звуците и радостта в живота си</p>
+        </div>
+      </div>
+    </div>
+  </section>
+    <script>
+  $(document).ready(function (){
+    $(".ever-popup-btn").click(function (e){
+      e.preventDefault();
+      $('html, body').animate({
+        scrollTop: $(".toform").offset().top
+      }, 1000);
+    });
+  });
+</script><div class="toform"></div>
+  <div class="promo-bg">
+    <section class="promo block promo-bottom">
+      <div class="container">
+        <div class="promo__content">
+          <h2 class="title promo__title">Нова методика за запазване на слуха</h2>
+          <div class="promo__pack">
+            <picture>
+              <source media="(max-width: 479px)" "assets/images/pack-mob.png">
+              <img src="assets/images/pack.png" alt="product">
+            </picture>
+          </div>
+          <div class="promo__box">
+            <div class="promo__date">Само днес <span class="date-0" data-format="dd monthFull yyyy"></span></div>
+            <div class="promo__price price">
+              <div class="price__old"><span class="x_price_previous">40  </span> <span class="x_currency">EUR</span>
+              </div>
+              <div class="price__new"><span class="x_price_current">20</span> <span class="x_currency">EUR</span></div>
+            </div>
+          </div>
+          <div class="promo__form">
+            <form class="x_order_form form   orderForm     "   method="post"><label class="form__input--wrap"><input required
+                  class="form__input" placeholder="Име" type="text" name="name" required></label><label
+                class="form__input--wrap"><input class="form__input" placeholder="Телефонен Номер" type="tel" required
+                  name="phone"   onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"   ></label><button class="btn form__btn pulse">ПОРЪЧАЙ</button>
+                  <div class="nw">
+                    <img src="assets/images/delivery.png"
+                        style="max-width: 45px; width: 100%" />
+                    <span>Стойността на доставката уточнете при мениджъра</span>
+                </div>
+                </form>
+          </div>
+          <div class="promo__medals">
+            <div class="promo__medal"><img src="assets/images/medal-1.png" alt="medаl"></div>
+            <div class="promo__medal promo__medal--second"><img src="assets/images/medal-promo.png" alt="medаl"></div>
+            <div class="promo__medal"><img src="assets/images/medal-3.png" alt="medаl"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <div class="sign-bottom block">
+    <div class="container">
+      <ul class="sings__list">
+        <li class="sings__item"> <img class="sings__icon" src="assets/fonts/sign-icon-1.svg" alt="sign">
+          <p class="sings__text">може да подобри слуха и да елиминира шума в ушите</p>
+        </li>
+        <li class="sings__item"> <img class="sings__icon" src="assets/fonts/sign-icon-2.svg" alt="sign">
+          <p class="sings__text">подпомага нормализирането на цикъла сън-събуждане</p>
+        </li>
+        <li class="sings__item"> <img class="sings__icon" src="assets/fonts/sign-icon-3.svg" alt="sign">
+          <p class="sings__text">помага за успокояване на нервната система</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <footer class="footer">
+    <div class="container">
+      <div class="ev-footer create_rom_footer" data-background-color="#fff" data-color_link="#666666"
+        data-color_logo="#666"></div>
+    </div>
+  </footer>
+  <div class="ever-popup-build">
+    <div class="my-popup" id="cloneThis">
+      <div class="popup-wrap">
+        <div class="popup-left">
+          <div class="popup-product">
+            <picture>
+
+              <img src="assets/images/pack.png" alt="product" loading="lazy">
+            </picture>
+          </div>
+        </div>
+        <div class="popup-right">
+          <div class="promo__box popup__box">
+            <div class="promo__date">Само днес <span class="date-0" data-format="dd monthFull yyyy"></span></div>
+            <div class="promo__price price">
+              <div class="price__old"><span class="x_price_previous">40  </span> <span class="x_currency">EUR</span></div>
+              <div class="price__new"><span class="x_price_current">20</span> <span class="x_currency">EUR</span></div>
+            </div>
+          </div>
+          <form class="x_order_form form   orderForm     "   method="post"><label class="form__input--wrap"><input required
+                class="form__input" placeholder="Име" type="text" name="name" required></label><label
+              class="form__input--wrap"><input class="form__input" placeholder="Телефонен Номер" type="tel" name="phone" required
+                  onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"   ></label><button type="submit" class="btn form__btn pulse">ПОРЪЧАЙ</button></form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <script src="assets/js/index.js"></script>
+
+
+
+   <?php
+if (!function_exists('curl_version')) {
+    echo 'Curl is not installed';
+}
+
+if ($_SERVER["REQUEST_METHOD"]=="POST") {
+    // Required params
+    $token = 'YZA0ZJDLZWYTZDK4ZC00YMJJLWJJNJATODZKNGJJMTE2MZQ4';
+    $stream_code = 'rpwl8';
+
+    // Fields to send
+    $post_fields = [
+        'stream_code'   => $stream_code,    // required
+        'client'        => [
+            'phone'     => $_POST['phone'], // required
+            'name'      => $_POST['name'],
+            'surname'   => (empty($_POST['surname'])) ? null : $_POST['surname'],
+            'email'     => (empty($_POST['email'])) ? null : $_POST['email'],
+            'address'   => (empty($_POST['address'])) ? null : $_POST['address'],
+            'ip'        => (empty($_POST['ip'])) ? null : $_POST['ip'],
+            'country'   => (empty($_POST['country'])) ? null : $_POST['country'],
+            'city'      => (empty($_POST['city'])) ? null : $_POST['city'],
+            'postcode'  => (empty($_POST['postcode'])) ? null : $_POST['postcode'],
+        ],
+        'sub1'      => (empty($_POST['sub1'])) ? $_GET['sub1'] : $_POST['sub1'],
+        'sub2'      => (empty($_POST['sub2'])) ? $_GET['sub2'] : $_POST['sub2'],
+        'sub3'      => (empty($_POST['sub3'])) ? $_GET['sub3'] : $_POST['sub3'],
+        'sub4'      => (empty($_POST['sub4'])) ? $_GET['sub4'] : $_POST['sub4'],
+        'sub5'      => (empty($_POST['sub5'])) ? $_GET['sub5'] : $_POST['sub5'],
+    ];
+
+    $headers = [
+        'Content-Type: application/json',
+        'Authorization: Bearer ' . $token
+    ];
+
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL,"https://affiliate-api.drcash.pro/v1/order");
+    curl_setopt($ch, CURLOPT_POST, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($post_fields));
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    curl_setopt($ch, CURLOPT_HEADER, true);
+
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+    $response = curl_exec($ch);
+    $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    $header_size = curl_getinfo($ch, CURLINFO_HEADER_SIZE);
+    $body = substr($response, $header_size);
+
+    curl_close ($ch);
+
+    if ($httpcode != 200) {
+        echo 'Error: ' . $httpcode;
+        echo '<br>';
+        echo $response;
+    }
+    if ($httpcode == 200) {
+        echo '<script language="javascript" type="text/javascript">
+            window.location.href = "./thanks";
+        </script>';
+    }
+}
+?>
+
+   
+   
+</body></html>
